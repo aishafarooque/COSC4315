@@ -1,0 +1,20 @@
+**** Please follow the instructions for the Mid term exam ****
+
+1. Your question and answer both should be in mid_exam folder.
+2. The question will be in qus.txt file. It will contain a link. Please copy and paste the link in a browser.
+3. Your answer file will be already created as ans.txt file. Please write your answers one per line in the following format: question_number [space] answer. Like below:
+   1 A
+   2 A
+   3 A
+   ..
+4. You can use any editor to open the file (vi or nano). Please be sure to save the file before the exam ends. If you are not familiar with any of these, use nano like following:
+$nano ans.txt
+[A blank screen will be shown. Write your answers as given in (2)]
+Save the file by: "ctrl+x", then press "Y".
+Double check your answers are recorded by the following command: 
+cat ans.txt 
+This will show you the answers. 
+5. After you are done, please save the file (ans.txt) and leave it as it is (like Homeworks). 
+6. Make sure you finish the exam before the time limit. We will check the timestamp to see if you made any additional changes to your file after the time limit which will cause significant penalty.
+
+
