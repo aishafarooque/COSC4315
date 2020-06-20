@@ -1,0 +1,7 @@
+a: int
+b: int
+c: int
+d: str
+k: bool
+m: int
+n: str

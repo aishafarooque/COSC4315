@@ -1,0 +1,5 @@
+a: int
+b: str
+c: undefined
+l1: list
+l2: list

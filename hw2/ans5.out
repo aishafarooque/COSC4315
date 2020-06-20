@@ -1,0 +1,3 @@
+x: int
+y: str
+z: undefined
