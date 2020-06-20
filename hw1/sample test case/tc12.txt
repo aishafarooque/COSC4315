@@ -1,0 +1,8 @@
+multiply(,)
+multiply(0,0)
+multiply(0,314087140714)
+multiply(1,339471414714)
+multiply(2414,)
+multiply(,23424)
+multiply(multiply(multiply(multiply(4,3),multiply(4,3)),multiply(multiply(4,3),multiply(4,3))),multiply(multiply(multiply(4,3),multiply(4,3)),multiply(multiply(4,3),multiply(4,3))))
+multiply(0123456789012345678901234567890123456789,9876543210987654321098765432109876543210)
